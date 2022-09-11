@@ -1,2 +1,2 @@
-# Quize-Game-
+# Quize-Game
 quize game using python
